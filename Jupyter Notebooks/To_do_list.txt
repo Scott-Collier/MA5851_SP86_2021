@@ -1,0 +1,6 @@
+Web Scraper:
+ - Update comments
+ - Improve code flow
+
+   Completed:
+   - Re-organise the order of the functions
