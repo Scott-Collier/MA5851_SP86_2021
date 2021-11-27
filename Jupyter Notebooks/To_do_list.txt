@@ -1,3 +1,4 @@
-Update comments
-Re-organise the order of the functions
-Improve code flow
+Web Scraper:
+ - Update comments
+ - Re-organise the order of the functions
+ - Improve code flow
