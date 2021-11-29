@@ -4,3 +4,26 @@ Web Scraper:
 
    Completed:
    - Re-organise the order of the functions
+
+------------------------------------------------------------------------------
+Processing:
+ - Update column names
+ - Combine 'Finish Colour' with 'Finish Colour Description'
+ - Remove 'mm' from the Height, Width and Depth column values
+ - Remove 'Kg' from the Weight column values
+ - Remove 'Year' from the Manufacturer Warranty column values and add it to the column name
+ - Remove 'Inch' from the Screen Size column values and add it to the column name
+ - Remove 'cm' from the Recommended Viewing Distance column
+ - Remove 'Watts' from Total Power column values and add it to the column name
+ - Remove 'mm' from Height, Width and Depth with Stand (add it to the column name)
+ - Remove 'kg' from the Weight with Stand (add it to the column name)
+ - Split 'Stand Size' column into 'Stand Size Width' and 'Stand Size Height' columns and remove 'mm'
+ - Split Package Dimensions column into 'Package Height Dimension', 'Package Width Dimension', 'Package Depth Dimension' and remove 'mm'
+ - Remove 'kg' from Package Weight column values
+ - Remove 'Stars' from 'TV Energy Star Rating' column
+ - Provide the 'actual' number of Reviews for each product
+ - Provide the 'actual avg Star rating' for each product
+ - Remove 'Review_disclaimer_size' column
+   
+   Completed:
+ 
